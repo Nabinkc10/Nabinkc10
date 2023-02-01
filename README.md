@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nabinkc10
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning ASp.NET Core
+- 🌱 I’m currently learning ASP.NET Core
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
